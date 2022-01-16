@@ -1,5 +1,5 @@
 # Weather
-![Screen] 
+![App Screenshot] (https://github.com/veraphipps01/weather/blob/main/Screen%20Shot%202022-01-16%20at%202.22.30%20PM.png?raw=true)
 
 ##Description
 A project shows an example of fetching data from an open weather API.
