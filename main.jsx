@@ -1,15 +1,3 @@
-/*
-Where to put ajax requests in react:
-https://reactjs.org/docs/faq-ajax.html
-https://daveceddia.com/ajax-requests-in-react/
-https://daveceddia.com/where-fetch-data-componentwillmount-vs-componentdidmount/
-https://daveceddia.com/watch-out-for-undefined-state/
-
-fetch api for ajax requests:
-https://davidwalsh.name/fetch
-https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
-
-*/
 
 class App extends React.Component {
     constructor(props) {
