@@ -15,3 +15,6 @@ It finds your location and shows the weather where you are in C' and F' (since i
 ### Planned Future Improvements
 - [ ] Add a Week Forecast
 - [ ] Save Locations
+
+### License
+Copy Right (c) [Vera Phipps](LICENSE.md)
