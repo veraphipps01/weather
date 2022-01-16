@@ -1,0 +1,35 @@
+body {
+    background: rgb(2,0,36);
+    background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+      font-size: x-large;
+      font-family: 'Arial';
+      color: white;
+    }
+    
+    
+    html, body {
+      font-family: 'Arial';
+    
+    }
+    
+    
+    .container {
+      padding: 1rem;
+      display: flex;
+      border: 1px solid #adadad;
+      height: 700px;
+      width: 450px;
+      margin: 30px auto;
+      box-shadow: 2px 4px 20px #888888;
+      flex-direction: column;
+      align-items: center;
+      background-image: linear-gradient(rgba(245,245,245,0.2),rgba(184,184,184,0.3)), url('https://imagizer.imageshack.com/v2/1024x768q90/922/51bWb3.jpg?dl=0');
+      background-size: cover;
+    }
+    
+    h1 {
+      font-family: 'Bungee Shade', cursive;
+    
+    }
+    
+    
