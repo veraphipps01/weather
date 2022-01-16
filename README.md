@@ -17,4 +17,4 @@ It finds your location and shows the weather where you are in C' and F' (since i
 - [ ] Save Locations
 
 ### License
-Copy Right (c) [Vera Phipps](LICENSE.md)
+Copyright (c) [Vera Phipps](LICENSE.md)
