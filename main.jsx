@@ -19,8 +19,8 @@ class App extends React.Component {
       // handle undefined coordinates
       let safelat = position.coords.latitude ? position.coords.latitude : 0;
       let safelon = position.coords.longitude ? position.coords.longitude : 0;
-      fetch(
-        "https://api.wunderground.com/api/d6fadca18738e4ec/geolookup/conditions/forecast/q/" +
+     fetch(
+        "https://fcc-weather-api.glitch.me/api/current?lat=" +
           safelat +
           "&lon=" +
           safelon
